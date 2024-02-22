@@ -2,8 +2,8 @@ from http import HTTPStatus
 
 import pytest
 
-from assertions.assertion_base import assert_status_code, assert_response_body_fields
-from main import get_user_info, get_user_repo_list, get_user_followers
+from GitApiTest.assertions.assertion_base import assert_status_code, assert_response_body_fields
+from GitApiTest.main import get_user_info, get_user_repo_list, get_user_followers
 
 
 class Test:

@@ -2,8 +2,8 @@ from typing import Type
 
 from pydantic import BaseModel
 
-from utilities.files_utils import read_json_test_data, read_json_common_response_data
-from utilities.json_utils import compare_json_left_in_right, remove_ids, remove_fields
+from GitApiTest.utilities.files_utils import read_json_test_data, read_json_common_response_data
+from GitApiTest.utilities.json_utils import compare_json_left_in_right, remove_ids, remove_fields
 
 
 class LogMsg:
