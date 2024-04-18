@@ -28,3 +28,8 @@
 
 ### Лабораторная 4 - Методы тест-дизайна
 [Ссылка на документ](https://github.com/Redegit/QualityManagement/raw/main/files/Лабораторная%204%20(методы%20тест-дизайна).docx)
+
+
+### Лабораторная 5 - Ручное тестирование
+[Ссылка на документ](https://github.com/Redegit/QualityManagement/raw/main/files/Лабораторная%205%20(ручное%20тестирование).docx)
+
